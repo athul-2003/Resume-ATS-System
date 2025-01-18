@@ -1,4 +1,4 @@
-# Resume ATS System 🤖
+# Resume ATS System 🤖 : "Make your resume unmissable to ATS and recruiters alike!"
 
 Welcome to the **Resume ATS System**, an AI-powered tool designed to help students, job seekers, and professionals optimize their resumes for Applicant Tracking Systems (ATS). This application allows users to upload their resume in PDF format, analyze its compatibility with job descriptions, and receive valuable feedback on improving the resume to boost the chances of getting noticed by recruiters.
 
