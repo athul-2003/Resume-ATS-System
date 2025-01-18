@@ -1,6 +1,8 @@
 # Resume ATS System 🤖
 
-Welcome to the **Resume ATS System**! This application allows you to upload your resume in PDF format, analyze its compatibility with a job description, and receive ATS (Applicant Tracking System)-friendly suggestions for improving your resume.
+Welcome to the **Resume ATS System**, an AI-powered tool designed to help students, job seekers, and professionals optimize their resumes for Applicant Tracking Systems (ATS). This application allows users to upload their resume in PDF format, analyze its compatibility with job descriptions, and receive valuable feedback on improving the resume to boost the chances of getting noticed by recruiters.
+
+With the power of **Google Gemini's generative AI**, the system provides detailed evaluations of your resume, helping you understand its strengths, weaknesses, and areas for improvement. Whether you're a student entering the job market or a job seeker looking to refine your resume, this tool will help you craft a standout application that aligns with industry standards.
 
 ## Features
 - **Resume and Job Description Analysis**: Compare your resume with a job description and receive a professional evaluation, including alignment with the role, strengths, gaps, and suggestions for improvement.
